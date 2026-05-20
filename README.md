@@ -98,22 +98,7 @@ mahindra-sql-business-analytics/
 
 ---
 
-## Project Screenshots
 
-### Revenue Analysis
-![Revenue Analysis](screenshots/revenue_analysis.png)
-
-### Dealer Delivery Delay Analysis
-![Dealer Delay](screenshots/dealer_delay_analysis.png)
-
-### Cohort Retention Analysis
-![Cohort Analysis](screenshots/cohort_analysis.png)
-
-### EV Growth Analysis
-![EV Growth](screenshots/ev_growth_analysis.png)
-
-### Customer Lifetime Value Analysis
-![Customer CLV](screenshots/customer_clv.png)
 
 ---
 
