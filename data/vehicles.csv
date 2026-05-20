@@ -1,0 +1,13 @@
+﻿vehicle_id,model_name,vehicle_category,fuel_type,launch_year,ex_showroom_price,manufacturing_cost,segment
+1,Scorpio N,SUV,Diesel,2022,1800000,1400000,Mid Premium
+2,Thar,Lifestyle SUV,Petrol,2021,1700000,1300000,Adventure
+3,XUV700,Premium SUV,Diesel,2021,2500000,1900000,Premium
+4,Bolero,Utility,Diesel,2019,1100000,850000,Rural
+5,BE 6,EV,Electric,2025,2800000,2200000,EV Premium
+6,XEV 9e,EV,Electric,2025,3200000,2500000,EV Luxury
+7,Marazzo,MPV,Diesel,2020,1500000,1150000,Family
+8,XUV300,Compact SUV,Petrol,2020,1300000,1000000,Urban
+9,Pickup ExtraLong,Commercial,Diesel,2018,950000,700000,Commercial
+10,Tractor 575 DI,Tractor,Diesel,2019,850000,620000,Agriculture
+11,Tractor Arjun Novo,Tractor,Diesel,2021,1150000,850000,Agriculture Premium
+12,Scorpio Classic,SUV,Diesel,2022,1600000,1250000,SUV

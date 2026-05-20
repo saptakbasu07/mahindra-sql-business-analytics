@@ -1,0 +1,41 @@
+﻿dealer_id,dealer_name,city,state,dealer_type,opening_year,sales_target
+1,Mahindra AutoHub Chennai 1,Chennai,Tamil Nadu,Sales & Service,2023,168
+2,Mahindra AutoHub Indore 2,Indore,Madhya Pradesh,Sales,2006,265
+3,Mahindra AutoHub Chennai 3,Chennai,Tamil Nadu,Premium,2008,94
+4,Mahindra AutoHub Pune 4,Pune,Maharashtra,Premium,2015,89
+5,Mahindra AutoHub Lucknow 5,Lucknow,Uttar Pradesh,Sales,2014,73
+6,Mahindra AutoHub Pune 6,Pune,Maharashtra,Sales & Service,2017,72
+7,Mahindra AutoHub Kolkata 7,Kolkata,West Bengal,Sales,2007,135
+8,Mahindra AutoHub Patna 8,Patna,Bihar,Sales & Service,2016,100
+9,Mahindra AutoHub Mumbai 9,Mumbai,Maharashtra,Sales,2015,107
+10,Mahindra AutoHub Mumbai 10,Mumbai,Maharashtra,Sales,2006,256
+11,Mahindra AutoHub Bangalore 11,Bangalore,Karnataka,Sales & Service,2005,165
+12,Mahindra AutoHub Lucknow 12,Lucknow,Uttar Pradesh,Premium,2007,221
+13,Mahindra AutoHub Indore 13,Indore,Madhya Pradesh,Sales,2006,207
+14,Mahindra AutoHub Indore 14,Indore,Madhya Pradesh,Sales & Service,2016,207
+15,Mahindra AutoHub Jaipur 15,Jaipur,Rajasthan,Sales & Service,2015,131
+16,Mahindra AutoHub Lucknow 16,Lucknow,Uttar Pradesh,Sales & Service,2018,110
+17,Mahindra AutoHub Indore 17,Indore,Madhya Pradesh,Sales & Service,2015,276
+18,Mahindra AutoHub Bangalore 18,Bangalore,Karnataka,Sales,2022,239
+19,Mahindra AutoHub Delhi 19,Delhi,Delhi,Premium,2023,75
+20,Mahindra AutoHub Delhi 20,Delhi,Delhi,Sales & Service,2024,269
+21,Mahindra AutoHub Chennai 21,Chennai,Tamil Nadu,Sales & Service,2015,89
+22,Mahindra AutoHub Mumbai 22,Mumbai,Maharashtra,Sales & Service,2014,225
+23,Mahindra AutoHub Pune 23,Pune,Maharashtra,Premium,2008,55
+24,Mahindra AutoHub Ahmedabad 24,Ahmedabad,Gujarat,Sales,2017,214
+25,Mahindra AutoHub Ahmedabad 25,Ahmedabad,Gujarat,Premium,2024,73
+26,Mahindra AutoHub Mumbai 26,Mumbai,Maharashtra,Sales,2021,212
+27,Mahindra AutoHub Delhi 27,Delhi,Delhi,Sales,2013,84
+28,Mahindra AutoHub Indore 28,Indore,Madhya Pradesh,Sales,2017,187
+29,Mahindra AutoHub Delhi 29,Delhi,Delhi,Sales & Service,2021,286
+30,Mahindra AutoHub Delhi 30,Delhi,Delhi,Sales,2007,212
+31,Mahindra AutoHub Lucknow 31,Lucknow,Uttar Pradesh,Sales & Service,2017,93
+32,Mahindra AutoHub Patna 32,Patna,Bihar,Sales & Service,2024,195
+33,Mahindra AutoHub Ahmedabad 33,Ahmedabad,Gujarat,Sales,2005,185
+34,Mahindra AutoHub Kolkata 34,Kolkata,West Bengal,Premium,2013,177
+35,Mahindra AutoHub Chennai 35,Chennai,Tamil Nadu,Premium,2007,240
+36,Mahindra AutoHub Mumbai 36,Mumbai,Maharashtra,Sales,2016,195
+37,Mahindra AutoHub Kolkata 37,Kolkata,West Bengal,Sales,2016,176
+38,Mahindra AutoHub Delhi 38,Delhi,Delhi,Sales,2022,210
+39,Mahindra AutoHub Lucknow 39,Lucknow,Uttar Pradesh,Sales,2011,90
+40,Mahindra AutoHub Delhi 40,Delhi,Delhi,Sales,2006,295
